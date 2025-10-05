@@ -1,0 +1,5 @@
+{
+  "name": "Consciousness Phase Diagram v0.1",
+  "description": "A parameter-agnostic 3D state explorer for visualizing time-series data, enabling researchers to map metrics to X, Y, and Z axes and analyze trajectories.",
+  "requestFramePermissions": []
+}
